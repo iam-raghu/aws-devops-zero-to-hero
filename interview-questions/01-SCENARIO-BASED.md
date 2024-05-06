@@ -1,7 +1,7 @@
 ### 1. **Scenario:** You have a microservices application that needs to scale dynamically based on traffic. How would you design an architecture for this using AWS services?
 **Answer:** I would use Amazon ECS or Amazon EKS for container orchestration, coupled with AWS Auto Scaling to adjust the number of instances based on CPU or custom metrics. Application Load Balancers can distribute traffic, and Amazon CloudWatch can monitor and trigger scaling events.
 
-### 2. **Scenario:** Your application's database is experiencing performance issues. Describe how you would use AWS tools to troubleshoot and resolve this.
+### 2. **Scenario:** Your application's database is experiencing performance issues. Describe how you would use AWS tools to troubleshoot and resolve this:
 **Answer:** I would use Amazon RDS Performance Insights to identify bottlenecks, CloudWatch Metrics for monitoring, and AWS X-Ray for tracing requests. I'd also consider optimizing queries and using read replicas if necessary.
 
 ### 3. **Scenario:** You're migrating a monolithic application to a microservices architecture. How would you ensure smooth deployment and minimize downtime?
