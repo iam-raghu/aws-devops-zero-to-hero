@@ -57,3 +57,4 @@ You can enable MFA for IAM users to require an additional authentication factor 
 
 ### 20. What is the IAM policy evaluation logic?
 IAM uses an explicit deny model, which means that if a user's permissions include an explicit deny statement, it overrides any allow statements in the policy.
+.
