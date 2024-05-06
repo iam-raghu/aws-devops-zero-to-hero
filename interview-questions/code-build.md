@@ -56,4 +56,4 @@ Yes, a CodeBuild project can have multiple build projects associated with it. Th
 You can use Amazon CloudWatch to collect and visualize metrics from CodeBuild, such as build duration, success rates, and resource utilization.
 
 ### 20. Explain how CodeBuild pricing works.
-CodeBuild pricing is based on the number of build minutes consumed. A build minute is billed per minute of code build time, including time spent provisioning and cleaning up the build environment.
+CodeBuild pricing is based on the number of build minutes consumed. A build minute is billed per minute of code build time, including time spent provisioning and cleaning up the builds environment.
