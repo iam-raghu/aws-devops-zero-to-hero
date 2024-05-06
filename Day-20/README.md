@@ -1,4 +1,4 @@
-# Introduction to AWS ECR (Elastic Container Registry)
+# Introduction to AWS ECR (Elastic Container Registry):
 
 In this video, we will deep dive into the fundamental concepts of ECR and provide you with a step-by-step practical guide on how to use it effectively. So, let's get started!
 
