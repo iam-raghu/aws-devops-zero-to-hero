@@ -1,4 +1,4 @@
-# Sample App deployment
+# Sample App deployment:
 
 ## Copy the deploy.yml to your local and save it with name deploy.yml
 
