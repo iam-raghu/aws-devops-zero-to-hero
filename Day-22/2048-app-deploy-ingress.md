@@ -1,4 +1,4 @@
-# 2048 App
+# 2048 App :
 
 ## Create Fargate profile
 
