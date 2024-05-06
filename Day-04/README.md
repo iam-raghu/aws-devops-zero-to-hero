@@ -1,4 +1,4 @@
-# VPC
+# VPC:
 
 Imagine you want to set up a private, secure, and isolated area in the cloud where you can run your applications and store your data. This is where a VPC comes into play.
 
