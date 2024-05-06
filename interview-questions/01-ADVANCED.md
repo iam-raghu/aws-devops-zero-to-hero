@@ -1,4 +1,4 @@
-### 1. **Question:** Explain the concept of "GitOps" and how it aligns with DevOps principles:
+### 1. **Question:** Explain the concept of "GitOps" and how it aligns with DevOps principles.
 **Answer:** GitOps is a DevOps practice that uses version control systems like Git to manage infrastructure and application configurations. All changes are made through pull requests, which triggers automated deployments. This approach promotes versioning, collaboration, and automation while maintaining a declarative, auditable infrastructure.
 
 ### 2. **Question:** How does AWS CodeArtifact enhance dependency management in DevOps workflows?
