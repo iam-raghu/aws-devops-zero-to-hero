@@ -1,4 +1,4 @@
-# AWS Config
+# AWS Config::
 
 we'll use AWS Config to detect compliant and non-compliant ec2 instances for below rule.
 - compliant ec2 instance has monitoring enabled
