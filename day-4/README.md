@@ -16,7 +16,7 @@ With a VPC, you have control over your network environment. You can define acces
 
 By default, when you create an AWS account, AWS will create a default VPC for you but this default VPC is just to get started with AWS. You should create VPCs for applications or projects. 
 
-## VPC components 
+## VPC components: 
 
 The following features help you configure a VPC to provide the connectivity that your applications need:
 
