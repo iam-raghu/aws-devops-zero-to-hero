@@ -61,3 +61,4 @@ Session Manager allows you to start interactive sessions with your instances wit
 
 ### 20. How can you secure data stored in AWS Systems Manager Parameter Store?
 You can use IAM policies to control who has access to Parameter Store parameters and implement encryption at rest using KMS keys.
+
