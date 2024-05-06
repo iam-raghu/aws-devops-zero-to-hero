@@ -1,4 +1,4 @@
-# Install EKS
+# Install EKS:
 
 Please follow the prerequisites doc before this.
 
