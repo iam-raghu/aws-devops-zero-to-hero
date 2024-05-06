@@ -57,3 +57,4 @@ You can use Kubernetes Deployments or other tools like Helm to automate applicat
 
 ### 20. How does Amazon EKS handle high availability?
 Amazon EKS supports high availability by distributing control plane components across multiple availability zones. It also offers features like managed node groups and Auto Scaling for worker nodes.
+.
